@@ -1,6 +1,6 @@
 # Power BI Batch Publisher
 
-📘 [Versão em Português (Brasil)](README.pt-br.md)
+📘 [Versão em Português (Brasil)](README.pt-BR.md)
 
 ---
 
