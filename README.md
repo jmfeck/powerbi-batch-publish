@@ -27,7 +27,7 @@ It is designed for Windows and is ideal for scenarios where you regularly publis
     │   └── main.py                         Main script
     ├── config/
     │   └── config.yaml                     Set your workspace name here
-    ├── exec_automated_pbi_publisher.bat    Batch runner
+    ├── run_powerbi_batch_publish.bat    Batch runner
     ├── requirements.txt
     └── README.md
 
@@ -87,7 +87,7 @@ You can run the tool in two ways:
 
 Using the batch file:
 
-    exec_automated_pbi_publisher.bat
+    run_powerbi_batch_publish.bat
 
 Or directly via Python:
 

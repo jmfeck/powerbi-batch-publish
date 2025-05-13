@@ -29,7 +29,7 @@ A ferramenta foi desenvolvida para Windows e é ideal para cenários em que voc�
     │   └── main.py                         Script principal
     ├── config/
     │   └── config.yaml                     Defina o nome do workspace aqui
-    ├── exec_automated_pbi_publisher.bat    Atalho para execução
+    ├── run_powerbi_batch_publish.bat    Atalho para execução
     ├── requirements.txt
     └── README.md
 
@@ -89,7 +89,7 @@ Você pode executar a ferramenta de duas formas:
 
 Usando o arquivo `.bat`:
 
-    exec_automated_pbi_publisher.bat
+    run_powerbi_batch_publish.bat
 
 Ou diretamente via Python:
 
