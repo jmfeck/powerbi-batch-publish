@@ -1,6 +1,6 @@
 # Power BI Batch Publisher
 
-[![Assista ao tutorial no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=YOUR_VIDEO_LINK)
+[![Assista ao tutorial no YouTube](https://img.shields.io/badge/YouTube-Assistir%20Tutorial-red?logo=youtube)](https://www.youtube.com/watch?v=s6eXtUX6FL8)
 
 > 📺 Um passo a passo completo desta ferramenta está disponível no YouTube. Clique acima para assistir.
 
