@@ -1,0 +1,58 @@
+Power BI Auto Publisher: Found 4 PBIX file(s) to publish.
+Power BI Auto Publisher: Launching PowerShell to publish reports...
+Power BI Auto Publisher: All reports published successfully.
+Power BI Auto Publisher: 
+
+Environment : Public
+TenantId    : 94b3f1b2-8b3a-49e3-ba33-8b8fb6d18361
+UserName    : J.FECK@montblanc.de
+
+
+Id        : 5bcb73a6-a181-4d7f-8be2-acbaed8da35c
+Name      : MTB AR Report (Distribut. Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/5bcb73a6-a181-4d7f-8be2-acbaed8
+            da35c
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=5bcb73a6-a181-4d7f-8be2-acbaed8da35c&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : df21ce22-4571-4d29-8afa-221869f484c0
+Name      : MTB OTIF Novelties Report (Distribut. Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/df21ce22-4571-4d29-8afa-221869f
+            484c0
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=df21ce22-4571-4d29-8afa-221869f484c0&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : 5fe35e11-93b5-4f41-9955-b76d7f2b4fd0
+Name      : MTB Retail Availability (Europe Merchandising)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/5fe35e11-93b5-4f41-9955-b76d7f2
+            b4fd0
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=5fe35e11-93b5-4f41-9955-b76d7f2b4fd0&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : 77ab0369-7202-4969-be49-9dbe6b9d707d
+Name      : MTB WHS JOOR vs. SAP (Business Development)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/77ab0369-7202-4969-be49-9dbe6b9
+            d707d
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=77ab0369-7202-4969-be49-9dbe6b9d707d&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+
+
+Power BI Auto Publisher: Moved file to output: MTB AR Report (Distribut. Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB OTIF Novelties Report (Distribut. Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB Retail Availability (Europe Merchandising).pbix
+Power BI Auto Publisher: Moved file to output: MTB WHS JOOR vs. SAP (Business Development).pbix
+Power BI Auto Publisher: Publishing process completed.
+Power BI Auto Publisher: Total files processed: 4

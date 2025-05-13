@@ -1,0 +1,146 @@
+Power BI Auto Publisher: Found 12 PBIX file(s) to publish.
+Power BI Auto Publisher: Launching PowerShell to publish reports...
+Power BI Auto Publisher: All reports published successfully.
+Power BI Auto Publisher: 
+
+Environment : Public
+TenantId    : 94b3f1b2-8b3a-49e3-ba33-8b8fb6d18361
+UserName    : J.FECK@montblanc.de
+
+
+Id        : 5bcb73a6-a181-4d7f-8be2-acbaed8da35c
+Name      : MTB AR Report (Distribut. Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/5bcb73a6-a181-4d7f-8be2-acbaed8
+            da35c
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=5bcb73a6-a181-4d7f-8be2-acbaed8da35c&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : f61bfdd6-866b-4257-abeb-ecd7c861dc60
+Name      : MTB BTQ Dashboard (Intern. Retail Sales)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/f61bfdd6-866b-4257-abeb-ecd7c86
+            1dc60
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=f61bfdd6-866b-4257-abeb-ecd7c861dc60&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : df21ce22-4571-4d29-8afa-221869f484c0
+Name      : MTB OTIF Novelties Report (Distribut. Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/df21ce22-4571-4d29-8afa-221869f
+            484c0
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=df21ce22-4571-4d29-8afa-221869f484c0&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : 585f77b9-7404-4ee9-aa6d-84eb239760eb
+Name      : MTB Outlet Stocks Check (Distribut. Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/585f77b9-7404-4ee9-aa6d-84eb239
+            760eb
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=585f77b9-7404-4ee9-aa6d-84eb239760eb&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : 5fe35e11-93b5-4f41-9955-b76d7f2b4fd0
+Name      : MTB Retail Availability (Europe Merchandising)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/5fe35e11-93b5-4f41-9955-b76d7f2
+            b4fd0
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=5fe35e11-93b5-4f41-9955-b76d7f2b4fd0&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : 1e46d87a-54d0-4c1d-b957-93ef7addc250
+Name      : MTB Retail KPIs (Intern. Retail Sales)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/1e46d87a-54d0-4c1d-b957-93ef7ad
+            dc250
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=1e46d87a-54d0-4c1d-b957-93ef7addc250&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : ba64050b-6ec5-47e1-aeef-b5fd8b670545
+Name      : MTB Sell-Out WHS (Business Development)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/ba64050b-6ec5-47e1-aeef-b5fd8b6
+            70545
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=ba64050b-6ec5-47e1-aeef-b5fd8b670545&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : dce43aa7-8908-4095-abf4-62aff92ec068
+Name      : MTB Stock Controlling (Demand Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/dce43aa7-8908-4095-abf4-62aff92
+            ec068
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=dce43aa7-8908-4095-abf4-62aff92ec068&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : 188ce150-160a-46e2-a2e7-68983752f326
+Name      : MTB Supply Accuracy (Demand Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/188ce150-160a-46e2-a2e7-6898375
+            2f326
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=188ce150-160a-46e2-a2e7-68983752f326&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : ee1d7638-725a-4dce-b430-5ed6ee595b3d
+Name      : MTB WHS Back Order Check - Market Use (Distribut. Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/ee1d7638-725a-4dce-b430-5ed6ee5
+            95b3d
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=ee1d7638-725a-4dce-b430-5ed6ee595b3d&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : 2112c034-f100-4867-83ab-d5977c29938d
+Name      : MTB WHS Back Order Check- HQ Use (Distribut. Planning)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/2112c034-f100-4867-83ab-d5977c2
+            9938d
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=2112c034-f100-4867-83ab-d5977c29938d&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+Id        : 77ab0369-7202-4969-be49-9dbe6b9d707d
+Name      : MTB WHS JOOR vs. SAP (Business Development)
+WebUrl    : https://app.powerbi.com/groups/df14a610-d984-42b7-a83a-11e45901e9e8/reports/77ab0369-7202-4969-be49-9dbe6b9
+            d707d
+EmbedUrl  : https://app.powerbi.com/reportEmbed?reportId=77ab0369-7202-4969-be49-9dbe6b9d707d&config=eyJjbHVzdGVyVXJsIj
+            oiaHR0cHM6Ly9XQUJJLVdFU1QtRVVST1BFLXJlZGlyZWN0LmFuYWx5c2lzLndpbmRvd3MubmV0IiwiZW1iZWRGZWF0dXJlcyI6eyJ1c2FnZ
+            U1ldHJpY3NWTmV4dCI6dHJ1ZX19
+DatasetId : 
+
+
+
+
+Power BI Auto Publisher: Moved file to output: MTB AR Report (Distribut. Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB BTQ Dashboard (Intern. Retail Sales).pbix
+Power BI Auto Publisher: Moved file to output: MTB OTIF Novelties Report (Distribut. Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB Outlet Stocks Check (Distribut. Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB Retail Availability (Europe Merchandising).pbix
+Power BI Auto Publisher: Moved file to output: MTB Retail KPIs (Intern. Retail Sales).pbix
+Power BI Auto Publisher: Moved file to output: MTB Sell-Out WHS (Business Development).pbix
+Power BI Auto Publisher: Moved file to output: MTB Stock Controlling (Demand Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB Supply Accuracy (Demand Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB WHS Back Order Check - Market Use (Distribut. Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB WHS Back Order Check- HQ Use (Distribut. Planning).pbix
+Power BI Auto Publisher: Moved file to output: MTB WHS JOOR vs. SAP (Business Development).pbix
+Power BI Auto Publisher: Publishing process completed.
+Power BI Auto Publisher: Total files processed: 12
